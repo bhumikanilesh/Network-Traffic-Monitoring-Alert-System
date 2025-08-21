@@ -13,7 +13,7 @@ Tools & Technologies: Python, Scapy, Matplotlib, Pandas, and Plyer for alerts.
 * Works on both Windows (with Npcap) and Linux
 
 # Installation
-git clone https://github.com/yourusername/network-monitoring-system.git
+git clone https://github.com/bhumikanilesh/Network-Traffic-Monitoring-Alert-System/tree/main.git
 cd network-monitoring-system
 pip install -r requirements.txt
 
